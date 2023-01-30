@@ -1,4 +1,4 @@
--- leaked by splitta get back for slatti frame and encode
+
 
 local userInput = game:service('UserInputService')
  local runService = game:service('RunService')
